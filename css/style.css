@@ -323,10 +323,6 @@ html {
   transition: 0.2s linear;
 }
 
-.container-2 .video-container .video:hover iframe {
-  transform: scale(1.1);
-}
-
 .btn-container {
   width: 100%;
   display: flex;
